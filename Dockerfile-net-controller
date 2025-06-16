@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:18376be76f77cd195e2bb4993eebf86c6b8c34222247f2f8e4a265c5c4e9b9a8
+MAINTAINER lin01 <lin@gmail.com>

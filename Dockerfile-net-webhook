@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:dcc32d23e1565c26620c3735c28ea294215e8b01dd9a30b58e19152879b89422
+MAINTAINER lin01 <lin@gmail.com>
