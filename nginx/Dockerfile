@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER lin01 <lin@gmail.com>
+MAINTAINER lin02 <lin@gmail.com>
