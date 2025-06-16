@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:7405faeb76367cd4e20a598978b20f7450f7729da2f9fac9ff5e2ec088999d3c
+MAINTAINER lin01 <lin@gmail.com>
