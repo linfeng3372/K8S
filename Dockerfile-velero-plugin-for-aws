@@ -1,0 +1,2 @@
+FROM velero/velero-plugin-for-aws:v1.7.0
+MAINTAINER lin01 <lin@gmail.com>
