@@ -1,0 +1,2 @@
+FROM minio/minio:latest
+MAINTAINER lin01 <lin@gmail.com>
