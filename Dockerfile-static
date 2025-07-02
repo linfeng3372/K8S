@@ -1,0 +1,2 @@
+FROM gcr.io/distroless/static:nonroot
+MAINTAINER lin01 <lin@gmail.com>
