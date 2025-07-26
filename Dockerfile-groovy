@@ -1,0 +1,2 @@
+FROM groovy:jdk17
+MAINTAINER lin01 <lin@gmail.com>
