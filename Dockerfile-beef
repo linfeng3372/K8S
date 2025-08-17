@@ -1,4 +1,3 @@
 #FROM phocean/beef:latest
 FROM janes/beef:latest
-janes/beef
 MAINTAINER lin01 <lin@gmail.com>
